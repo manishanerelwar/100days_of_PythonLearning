@@ -7,7 +7,6 @@ people = int(input("How many people to split the bill? "))
 per_person = float(tip*bill/100) + bill
 Total_bill = per_person/people
 print("Each person need to pay $"+ str(Total_bill))
-
 #  OR
 #Using F-string
 print(f"Each person need to pay ${Total_bill}")
