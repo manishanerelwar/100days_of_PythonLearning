@@ -1,4 +1,4 @@
-print("***************** BAND NAME CREATION *****************")
+print("***************** BAND NAME CREATION ***********")
 #Project Number 1
 #Creating a Band name
 print("Welcome to the Band Name Generator!")
