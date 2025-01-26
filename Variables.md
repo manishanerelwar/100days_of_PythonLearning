@@ -20,9 +20,9 @@ print(f"PI = {PI}")
 print(f"name = {name}")
 
 ##### # Mistakes to learn:
-##### # String Formatting Issue:
-##### # In Python, you need to use an f before the string to enable formatting (e.g., f"k = {k}").
-##### # Missing Objects
+##### 1. String Formatting Issue:
+#####  In Python, you need to use an f before the string to enable formatting (e.g., f"k = {k}").
+##### 2.  Missing Objects
 ##### # To include the value of k, you need to write f"{k}" in the print statement. If you're missing the curly braces {} inside the f-string then code will not run.  
 eg: This example doesn't work unless you use the curly braces
 ##### # Type your code below
