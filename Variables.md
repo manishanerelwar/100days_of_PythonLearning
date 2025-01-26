@@ -1,5 +1,5 @@
 ##### # Variables are containers used to store, manipulate & display information within a program
-# Has a unique name and a value that can be of different types.
+##### # Has a unique name and a value that can be of different types.
 1. Numbers:
 Types of Numbers
 int = Whole Numbers ex: a = 1/-1/0
