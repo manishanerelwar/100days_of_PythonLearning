@@ -12,9 +12,9 @@ To initialize a string value in a variable, enclose it within **single or double
 A bool (Boolean) type has only 2 possible values: True or False
 Booleans are the building blocks for creating logic in the programs we write. We have a whole chapter about logic and conditions.
 4. Recap:
-# Type your code below
+##### # Type your code below
 
-# Don't change the line below
+##### # Don't change the line below
 print(f"k = {k}")
 print(f"PI = {PI}")
 print(f"name = {name}")
