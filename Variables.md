@@ -1,5 +1,5 @@
-##### # Variables are containers used to store, manipulate & display information within a program
-##### # Has a unique name and a value that can be of different types.
+#### # Variables are containers used to store, manipulate & display information within a program
+#### # Has a unique name and a value that can be of different types.
 1. Numbers:
 Types of Numbers
 int = Whole Numbers ex: a = 1/-1/0
@@ -12,9 +12,20 @@ To initialize a string value in a variable, enclose it within **single or double
 A bool (Boolean) type has only 2 possible values: True or False
 Booleans are the building blocks for creating logic in the programs we write. We have a whole chapter about logic and conditions.
 4. Recap:
-##### # Type your code below
+#### # Type your code below
 
-##### # Don't change the line below
+#### # Don't change the line below
 print(f"k = {k}")
 print(f"PI = {PI}")
 print(f"name = {name}")
+
+##### # Mistakes to learn:
+# String Formatting Issue:
+# In Python, you need to use an f before the string to enable formatting (e.g., f"k = {k}").
+# Missing Objects
+# To include the value of k, you need to write f"{k}" in the print statement. If you're missing the curly braces {} inside the f-string then code will not run.  
+eg: This example doesn't work unless you use the curly braces
+# Type your code below
+k = 88
+# Don't change the line below
+print(f"k")
